@@ -1,13 +1,3 @@
-- 👋 Hi, I’m KAIF SHAHEEM J
-- 👀 I’m interested in Machine Learning and Web development. I started  Machine learning the concepts now...
-- 🌱 I’m currently pursuing  Data Science in PSG Tech   
-- 💞️ I’m looking to collaborate on many machine Learning Projects
-- 📫 You can reach me on mail ID 21pd16@psgtech.ac.in
-
-<!---
-kaifshaheemj/kaifshaheemj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kaif Shaheem J
 ======================================================================================================================================
 
@@ -16,12 +6,16 @@ Data Science Entusiast
 
 I'm currently Pursuing Data Science in PSG College of Technology, I'm a 2k21 batch Student. "I am an enthusiastic and dedicated learner, always eager to acquire new knowledge and skills. I have a strong desire to expand my understanding in various subjects and continuously seek opportunities for growth. I approach learning with curiosity, open-mindedness, and a proactive attitude, always ready to explore new ideas and challenge myself. I embrace learning as a lifelong journey and strive to make the most out of every learning opportunity that comes my way."
 
-*   🌍  I'm based in Coimbatore
-*   🖥️  See my portfolio at [Notion](http://www.notion.so/Data-Science-Portfolio-6115cba901d54420b09f283a293afbfe)
-*   ✉️  You can contact me at [21pd16@psgtech.ac.in](mailto:21pd16@psgtech.ac.in)
-*   🚀  I'm currently working on [TREDGE (a trading Website)](http://www.rightskewfin.com/)
-*   🧠  I'm learning Machine Learning and Mathematical Stuffs
-*   🤝  I'm open to collaborating on I'm seeking to Collaborate on New Projects with others.### Skills 
+* 🌍  I'm based in Coimbatore
+* 🖥️  See my portfolio at [Notion](http://www.notion.so/Data-Science-Portfolio-6115cba901d54420b09f283a293afbfe)
+* ✉️  You can contact me at [21pd16@psgtech.ac.in](mailto:21pd16@psgtech.ac.in)
+* 🚀  I'm currently working on [TREDGE (a trading Website)](http://www.rightskewfin.com/)
+* 🧠  I'm learning Machine Learning and Mathematical Stuffs
+* 🤝  I'm open to collaborating on I'm seeking to Collaborate on New Projects with others.
+
+### Skills
+
+
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
@@ -34,15 +28,14 @@ I'm currently Pursuing Data Science in PSG College of Technology, I'm a 2k21 bat
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/kaifshaheemj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/kaif-shaheem-aaa0b0227/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.medium.com/@kaifshaheemj17" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/kaifshaheemj"><img src="https://github-readme-stats.vercel.app/api?username=kaifshaheemj&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kaifshaheemj's GitHub stats" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/kaifshaheemj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kaif-shaheem-aaa0b0227/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@kaifshaheemj17" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/kaifshaheemj"><img src="https://github-readme-stats.vercel.app/api?username=kaifshaheemj&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kaifshaheemj's GitHub stats" /></a>
