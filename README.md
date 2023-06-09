@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Science Entusiast
 ----------------------
 
-I'm currently Pursuing Data Science in PSG College of Technology, I'm a 2k21 batch Student. "I am an enthusiastic and dedicated learner, always eager to acquire new knowledge and skills. I have a strong desire to expand my understanding in various subjects and continuously seek opportunities for growth. I approach learning with curiosity, open-mindedness, and a proactive attitude, always ready to explore new ideas and challenge myself. I embrace learning as a lifelong journey and strive to make the most out of every learning opportunity that comes my way."
+I'm currently Pursuing Data Science in PSG College of Technology, I'm a 2k21 batch Student. "I am an enthusiastic and dedicated learner, always eager to acquire new knowledge and skills. I have a strong desire to expand my understanding in various subjects and continuously seek opportunities for growth. I want to make such new business ideas to the world. I approach learning with curiosity, always ready to explore such new ideas to standlone from the crowd. Strive to make the most out of every learning opportunity that comes my way."
+Also intersted in Making connection with new People and One of the member in Rotract Club in Coimbatore District. 
 
 * 🌍  I'm based in Coimbatore
 * 🖥️  See my portfolio at [Notion](http://www.notion.so/Data-Science-Portfolio-6115cba901d54420b09f283a293afbfe)
