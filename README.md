@@ -13,7 +13,7 @@ Also intersted in Making connection with new People and One of the member in "**
 * ✉️  You can contact me at [21pd16@psgtech.ac.in](mailto:21pd16@psgtech.ac.in)
 * 🚀  I'm currently working on [TREDGE (a trading Website)](http://www.rightskewfin.com/)
 * 🧠  I'm learning Machine Learning and Mathematical Stuffs
-* 🤝  I'm open to collaborating on I'm seeking to Collaborate on New Projects with others.
+* 🤝  I'm seeking to Collaborate on New Projects with others.
 * ⚡  I like to be a person, want to connect with more people with various Experiences. That Connection make me a Stronger to lead the future Effectively.
 ### Skills
 
