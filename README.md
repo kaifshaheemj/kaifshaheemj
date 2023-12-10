@@ -8,8 +8,9 @@ I'm currently Pursuing Data Science in PSG College of Technology, I'm a 2k21 bat
 
 Also intersted in Making connection with new People.
 
-Currently **International Service Director** for the **Rotaract Club Coimbator Royals R.I.District 3201**
-Chairperson and Event Organizer for **Elevate Your Career** - Mastering the art of Securing Dream job 
+Currently **International Service Director** for the **Rotaract Club Coimbatore Royals R.I.District 3201**.
+
+Chairperson and Event Organizer for **Elevate Your Career** - Mastering the art of Securing Dream job.
 
 * 🌍  I'm based in Coimbatore
 * 🖥️  See my portfolio at [Notion](http://www.notion.so/Data-Science-Portfolio-6115cba901d54420b09f283a293afbfe)
