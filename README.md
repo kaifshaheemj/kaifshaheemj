@@ -6,12 +6,13 @@ Data Science Entusiast
 
 I'm currently Pursuing Data Science in PSG College of Technology, I'm a 2k21 batch Student. "I am an enthusiastic and dedicated learner, always eager to acquire new knowledge and skills. I have a strong desire to expand my understanding in various subjects and continuously seek opportunities for growth. I want to make such new business ideas to the world. I approach learning with curiosity, always ready to explore such new ideas to standlone from the crowd. Strive to make the most out of every learning opportunity that comes my way."
 
-Also intersted in Making connection with new People and One of the member in "**Rotract Club**" in Coimbatore District. 
+Also intersted in Making connection with new People and Currently **International Service Director** for the **Rotaract Club Coimbator Royals R.I.District 3201**
+Chairperson and Event Organizer for **Elevate Your Career** - Mastering the art of Securing Dream job 
 
 * 🌍  I'm based in Coimbatore
 * 🖥️  See my portfolio at [Notion](http://www.notion.so/Data-Science-Portfolio-6115cba901d54420b09f283a293afbfe)
 * ✉️  You can contact me at [21pd16@psgtech.ac.in](mailto:21pd16@psgtech.ac.in)
-* 🚀  I'm currently working on [TREDGE (a trading Website)](http://www.rightskewfin.com/)
+* 🚀  I worked on [TREDGE (a trading Website)](http://www.rightskewfin.com/)
 * 🧠  I'm learning Machine Learning and Mathematical Stuffs
 * 🤝  I'm seeking to Collaborate on New Projects with others.
 * ⚡  I like to be a person, want to connect with more people with various Experiences. That Connection make me a Stronger to lead the future Effectively.
@@ -23,12 +24,7 @@ Also intersted in Making connection with new People and One of the member in "**
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
 
 
