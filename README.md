@@ -6,7 +6,9 @@ Data Science Entusiast
 
 I'm currently Pursuing Data Science in PSG College of Technology, I'm a 2k21 batch Student. "I am an enthusiastic and dedicated learner, always eager to acquire new knowledge and skills. I have a strong desire to expand my understanding in various subjects and continuously seek opportunities for growth. I want to make such new business ideas to the world. I approach learning with curiosity, always ready to explore such new ideas to standlone from the crowd. Strive to make the most out of every learning opportunity that comes my way."
 
-Also intersted in Making connection with new People and Currently **International Service Director** for the **Rotaract Club Coimbator Royals R.I.District 3201**
+Also intersted in Making connection with new People.
+
+Currently **International Service Director** for the **Rotaract Club Coimbator Royals R.I.District 3201**
 Chairperson and Event Organizer for **Elevate Your Career** - Mastering the art of Securing Dream job 
 
 * 🌍  I'm based in Coimbatore
