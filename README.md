@@ -8,7 +8,7 @@ I am an ardent and devoted learner, on a perpetual quest for knowledge and skill
 
 🌈 Approach learning with an insatiable curiosity, I believe in making the most out of every opportunity to expand my horizons. Each encounter with knowledge is a chance to stand out from the crowd and make a difference in the world.
 
-🤝 In my pursuit of growth, I actively engage in building connections with like-minded individuals. As a proud to be a International Service Director of the Rotaract Club of Coimbatore Royals, I find joy in fostering meaningful relationships and contributing to the community.
+🤝 In my pursuit of growth, I actively build connections with like-minded individuals. As a proud International Service Director of the Rotaract Club of Coimbatore Royals, I find joy in fostering meaningful relationships and contributing to the community.
 
 Had an incredible experience of orchestrating and leading as the Chairperson for the event "ELEVATE: Art of Mastering to Get the Dream Job." This session was a culmination of passion, collaboration, and the shared vision of success. In a heartwarming collaboration with fellow Rotaract Clubs, we came together to create an enriching experience that aimed to inspire and guide individuals towards realizing their professional dreams.
 
@@ -16,11 +16,12 @@ Join me on this exhilarating journey of learning, innovation, and connection as 
 
 * 🌍  I'm based in Coimbatore
 * 🖥️  See my portfolio at [Notion](http://www.notion.so/Data-Science-Portfolio-6115cba901d54420b09f283a293afbfe)
-* ✉️  You can contact me at [21pd16@psgtech.ac.in](mailto:21pd16@psgtech.ac.in)
+* ✉️  You can contact me at official mail:[21pd16@psgtech.ac.in](mailto:21pd16@psgtech.ac.in), Personal mail:[kaifshaheemj17@gmail.com](mailto:kaifshaheemj17@gmail.com)
+* 🚀  I worked a six-month internship at Katomaran Technologies as AI Intern [Katomaran Technologies](https://www.katomaran.com/).  
 * 🚀  I worked on [TREDGE (a trading Website)](http://www.rightskewfin.com/)
 * 🧠  I'm learning Machine Learning and Mathematical Stuffs
-* 🤝  I'm seeking to Collaborate on New Projects with others.
-* ⚡  I like to be a person, want to connect with more people with various Experiences. That Connection make me a Stronger to lead the future Effectively.
+* 🤝  I'm seeking to collaborate on New Projects with others.
+* ⚡  I like to be a person, want to connect with more people with various Experiences. That Connection makes me a Stronger leader to lead the future effectively.
 
 
 
