@@ -92,12 +92,15 @@ Whether you're a doctor, nurse, or healthcare administrator, MRIA helps you:
 > _“Stay curious. Stay connected. Build for impact.”_
 
 ---
-## 🌐 About Me
+## 📌 My Journey & Current Focus
 
 - 🌍 Proudly from **Pollachi**, living and learning in **Coimbatore**
 - ✉️ Reach me at:
   - **Official Mail:** [21pd16@psgtech.ac.in](mailto:21pd16@psgtech.ac.in)
   - **Personal Mail:** [kaifshaheemj17@gmail.com](mailto:kaifshaheemj17@gmail.com)
+- 🧩 Explored and proposed an idea for **Google Summer of Code 2025**,  
+  although I didn’t get selected, it was a valuable learning experience  
+  [📄 View My Proposal](https://docs.google.com/document/d/10uWzza0oDOxntJ4_UomBbekyY8i4dwH60NIgS13xkc8/edit?usp=sharing)
 - 🚀 Completed a **6-month AI Internship** at [Katomaran Technologies](https://www.katomaran.com/)
 - 💹 Contributed to [**TREDGE**](http://www.rightskewfin.com/) – a trading insights platform
 - 🧠 Currently diving deep into **Machine Learning** and its **Mathematical Foundations**
