@@ -35,18 +35,28 @@ Whether you're a patient, caregiver, or pharmacist, MedGlance helps you:
 > 💡 Our vision: **"Empower every individual with instant, reliable, and accessible medicine knowledge at their fingertips."**
 
 ## 🚀 Featured Product – MRIA Medical Retrieval Intelligence Assistant
-🩺 What is MRIA?
-MRIA (Medical Retrieval Intelligent Assistant) is an innovative Edge AI physical device that attaches to healthcare professionals' collars, designed to revolutionize healthcare workflow by eliminating manual documentation and enhancing doctor-patient interactions.
-Whether you're a doctor, nurse, or healthcare administrator, MRIA helps you:
 
-- 🎤 Automatically capture doctor-patient conversations using voice recognition
-- 🤖 Get real-time AI-powered diagnosis suggestions and report generation
-- 📋 Eliminate manual documentation - everything is voice-driven
-- 🗄️ Access centralized patient database with conversation summaries and case studies
-- 🔒 Ensure complete data privacy with local hospital server processing
-- 👩‍⚕️ Enable hands-free queries for nurses and staff about patient information
-- ⚡ Reduce 20-30% manual workload to focus on actual patient care
-- 🏥 Voice-to-text & text-to-voice capabilities in local languages
+### 🩺 What is MRIA?
+
+MRIA (**Medical Retrieval Intelligent Assistant**) is an innovative **Edge AI physical device** that attaches to healthcare professionals' collars, designed to revolutionize healthcare workflow by eliminating manual documentation and enhancing doctor–patient interactions.
+
+Whether you're a doctor, nurse, or healthcare administrator, **MRIA helps you:**
+
+- 🎤 Automatically capture doctor–patient conversations using **voice recognition**
+- 🤖 Get **real-time AI-powered diagnosis suggestions** and automated **report generation**
+- 📋 Eliminate **manual documentation** — everything is **voice-driven**
+- 🗄️ Access a **centralized patient database** with conversation summaries and case studies
+- 🔒 Ensure **complete data privacy**, processed securely on the **local hospital server**
+- 👩‍⚕️ Enable **hands-free queries** for nurses and staff about patient details
+- ⚡ Reduce **20–30% manual workload** to focus more on patient care
+- 🏥 Voice-to-text & text-to-voice capabilities in **local languages**
+
+---
+
+### 🌐 Explore More About MRIA  
+👉 Visit our official website for demos, features, and updates:  
+**https://www.mriahealth.com/**
+
 
 🚧 Development Status
 🔨 Product Prototype Building in Progress - MRIA is currently under active development.
@@ -81,8 +91,11 @@ Whether you're a doctor, nurse, or healthcare administrator, MRIA helps you:
 
 
 ---
-## 🤝 Let's Connect!
+### 🌐 About MRIA  
+👉 Visit our official website for demos, features, and updates:  
+**https://www.mriahealth.com/**
 
+## 🤝 Let's Connect!
 - [🌐 Portfolio Website (coming soon)]()
 - [💼 LinkedIn](https://linkedin.com/in/kaifshaheem)
 - [📸 Instagram](https://instagram.com/kaifshaheem)
